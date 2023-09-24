@@ -14,7 +14,6 @@ previous HIT, this user is assumed to be in a new session.
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Data Preprocessing](#data-preprocessing)
 - [Feature Engineering](#feature-engineering)
 - [Model Selection](#model-selection)
@@ -27,12 +26,7 @@ previous HIT, this user is assumed to be in a new session.
 
 ## Overview
 
-The aim of this project is to predict whether a user will return to their session after a 5-minute break. A session here. represent Achieving this goal involves several key steps:
-
-## Project Structure
-
-The project is structured as follows:
-
+The aim of this project is to predict whether a user will return to their session after a 5-minute break.
 
 ## Data Preprocessing
 
