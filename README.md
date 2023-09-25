@@ -73,7 +73,7 @@ We create various visualizations to gain insights from the data, explore feature
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/ReengagePredictor.git`
+1. Clone the repository: `git clone https://github.com/starmindz/User_re-engagement.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the Jupyter notebooks in the `notebooks/` directory for data exploration and model development.
 4. Customize and use the code in the `src/` directory for your specific use case.
